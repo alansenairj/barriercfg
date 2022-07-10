@@ -1,0 +1,19 @@
+For Windows 10 as Server: 
+
+C:\Program Files\Barrier\cfg
+
+Name it as barrier.sgc
+
+
+On server Do config as follow: 
+
+Screen Name: ESCRITORIOPC - careful with unicode - it not works. 
+
+Disable SSL
+
+_________________________________________________________________________________________
+
+On Client
+Screen Name: ALAN
+
+
